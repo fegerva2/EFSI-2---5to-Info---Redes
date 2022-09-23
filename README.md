@@ -183,6 +183,7 @@ ___
 # Septiembre ===>
 
 ### Capa 3: Transporte (TCP y UDP)
+* cual es la diferencia y para que sirven los puertos UDP yTCP
 * Buscar los puertos de todos los [protocolos](#protocolos) de las capas 3 y 4 del modelo TCP/ip
 ### Capa 4: Proceso  
 Vamos a ver en especial el servicio HTTP
@@ -192,4 +193,4 @@ Consigna:
 * Explicar con sus palabras y usando ejemplos de su propia aplicacion los diferentes [Metodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 * Explicar con sus palabras y describir una [Sesion tipica HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Session)
 
-Recuersenusar la consola de inspeccion (F12 en Chrome), la comunicacion http se muestra en la pestaña Network y es conveniente tildar la casilla "Preserve log" y agregar a la tabala la columna "Method"
+Recuerden usar la consola de inspeccion (F12 en Chrome), todo lo inerente al protocolo HTTP se muestra en la pestaña Network y es conveniente tildar la casilla "Preserve log" y agregar a la tabala la columna "Method"
