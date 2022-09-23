@@ -121,7 +121,7 @@ ___
   *  Wan
   *  Lan
   *  Media (Medio de Transporte)
-* ### Protocolos
+* ### <a name="Protocolos">Protocolos</a>
   *  DNS
   *  FTP
   *  SSH
@@ -146,7 +146,7 @@ ___
   * Bits
   * Señal (dbm)
 
-* ###   Medios
+* ### Capa 1:Medios
   * #### Conectores
     * (con foto) Conector RJ45 Hembra (Jack RJ45)
     * (con foto) Conector RJ45 Macho (ficha RJ45)
@@ -175,3 +175,22 @@ ___
       * velocidad
       * Full Duplex vs Half Duplex\
     * POE (802.3af)
+
+### capa 2: RED
+(direcciones ip y mascaras)
+
+
+# Septiembre ===>
+
+### Capa 3: Transporte (TCP y UDP)
+* cual es la diferencia y para que sirven los puertos UDP yTCP
+* Buscar los puertos de todos los [protocolos](#protocolos) de las capas 3 y 4 del modelo TCP/ip
+### Capa 4: Proceso  
+Vamos a ver en especial el servicio HTTP
+
+Esto es una muy completa [Documentacion de HTTP](https://developer.mozilla.org/es/docs/Web/HTTP)
+Consigna:
+* Explicar con sus palabras y usando ejemplos de su propia aplicacion los diferentes [Metodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* Explicar con sus palabras y describir una [Sesion tipica HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Session)
+
+Recuerden usar la consola de inspeccion (F12 en Chrome), todo lo inerente al protocolo HTTP se muestra en la pestaña Network y es conveniente tildar la casilla "Preserve log" y agregar a la tabala la columna "Method"
