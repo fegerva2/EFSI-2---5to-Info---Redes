@@ -184,7 +184,7 @@ ___
 
 ### Capa 3: Transporte (TCP y UDP)
 * cual es la diferencia y para que sirven los puertos UDP yTCP
-* Buscar los puertos de todos los [protocolos](#protocolos) de las capas 3 y 4 del modelo TCP/ip
+* Buscar los puertos de todos los [protocolos](#protocolos) de la capa 4 del modelo TCP/ip
 ### Capa 4: Proceso  
 Vamos a ver en especial el servicio HTTP
 
